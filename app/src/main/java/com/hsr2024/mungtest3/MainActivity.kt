@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+        //로컬 유리브랜치에서 작업했음.
+
     }
 }
