@@ -9,6 +9,7 @@ import com.hsr2024.mungtest3.databinding.ActivityMainBinding
 
 // 20240408. HSR 병합 확인.
 // 20240408. LES 병합 확인.
+// 20240408. YulyClass 병합 확인
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,6 +18,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+
+        //로컬 유리브랜치에서 작업했음.
 
     }
 }
