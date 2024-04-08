@@ -11,6 +11,7 @@ import com.hsr2024.mungtest3.databinding.ActivityMainBinding
 // 20240408. LES 병합 확인.
 // 20240408. YulyClass 병합 확인
 //20240408. LSB 병합 확인
+// 푸쉬테스트
 
 class MainActivity : AppCompatActivity() {
 
